@@ -45,7 +45,7 @@ Jihan Hafizah Ariyani :
 <b> Board Schematic : </b>
 
 Publisher
-![WhatsApp Image 2023-04-06 at 18 27 38](https://user-images.githubusercontent.com/102265910/230581937-51360ce5-e053-410b-8e2f-e8ca6d55138e.jpg)
+![WhatsApp Image 2023-04-28 at 18 42 48](https://user-images.githubusercontent.com/102265910/236888063-f8e59fa3-e4bd-4899-a055-050107118ca4.jpeg)
 
 Subscriber
 ![2023-05-09](https://user-images.githubusercontent.com/102265910/236887473-12b5b988-c658-423c-a3fc-caa083e64f59.png)
