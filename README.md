@@ -9,12 +9,12 @@
 <br>
 <b> Judul Studi Kasus : </b>
 
-Alarm Deteksi Gerak dengan Sensor PIR menggunakan platform Bot Telegram
+Sistem Alarm Pendeteksi Maling dengan sensor PIR menggunakan platform Bot Telegram
 
 <br>
 <b> Deskripsi : </b>
 
-Sensor yang menangkap pergerakan akan meneruskan pesan ke broker, dan broker akan meneruskan ke perangkat client yang telah mensubscribe topic dengan pemberitahuan pesan " ada maling". Alarm Deteksi ini menggunakan platform Chat Bot Telegram.
+Sensor yang menangkap pergerakan akan meneruskan pesan ke broker, dan broker akan meneruskan ke perangkat client yang telah mensubscribe topic dengan pemberitahuan pesan "Gerakan Terdeteksi". Alarm Deteksi ini menggunakan platform Chat Bot Telegram.
 
 <br>
 <b> Pembagian Tugas : </b>
@@ -44,7 +44,11 @@ Jihan Hafizah Ariyani :
 
 <b> Board Schematic : </b>
 
+Publisher
 ![WhatsApp Image 2023-04-06 at 18 27 38](https://user-images.githubusercontent.com/102265910/230581937-51360ce5-e053-410b-8e2f-e8ca6d55138e.jpg)
+
+Subscriber
+![2023-05-09](https://user-images.githubusercontent.com/102265910/236887473-12b5b988-c658-423c-a3fc-caa083e64f59.png)
 
 
 
